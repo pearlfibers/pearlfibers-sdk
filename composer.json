@@ -1,6 +1,6 @@
 {
   "name": "pearlfibers/pearlfibers-sdk",
-  "description": "PearlFibers SDK",
+  "description": "pearlfibers SDK",
   "type": "library",
   "keywords": [
     "wordpress"
